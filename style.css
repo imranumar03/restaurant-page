@@ -1,0 +1,73 @@
+body{
+    background-color: #2F3035;
+    background-image:url(saA.jpg);
+    background-size: cover;
+
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 787px;
+
+}
+
+
+header{
+    height: 100px;
+    text-align: center;
+    
+}
+
+nav{
+    background-color: rgba(0, 0, 0, 0.338);
+    text-align: center;
+   padding-top: 8px;
+   padding-bottom: 8px;
+}
+
+main{
+    height: 400px;
+    padding-top: 8px;
+    padding-left: 180px;
+    padding-right: 180px;
+    text-align: center;
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.336);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+
+h1{
+    font-size: 82px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(248, 248, 248);
+}
+
+p{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+footer p{
+    text-align: center;
+    font-size: 10px;
+    color: rgb(197, 197, 197);
+}
